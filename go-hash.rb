@@ -1,4 +1,4 @@
-class Go-hash < Formula
+class GoHash < Formula
   desc "Small utility to store secret information like passwords"
   homepage "https://github.com/renatoathaydes/go-hash/"
   url "https://github.com/renatoathaydes/go-hash/releases/download/0.6.0/go-hash-darwin-amd64"
