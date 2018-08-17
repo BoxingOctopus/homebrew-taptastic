@@ -1,4 +1,4 @@
-class Macvendor < Formula
+class Genflag < Formula
   desc "Stupid little Golang binary which will generate Flags for CTF/Wargames"
   homepage "https://github.com/BoxingOctopus/genflag"
   url "https://github.com/BoxingOctopus/genflag/releases/download/1.1/genflag-darwin-amd64"
