@@ -1,2 +1,2 @@
 # homebrew-taptastic
-Miscellaneous Homebrew formulae
+Miscellaneous Homebrew formulae for projects I work on
