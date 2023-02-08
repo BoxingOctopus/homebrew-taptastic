@@ -7,6 +7,7 @@ class HashiUp < Formula
   def install
     bin.install "hashi-up-arm64"
     system "mv #{bin}/hashi-up-arm64 #{bin}/hashi-up"
+    system "chmod +x #{bin}/hashi-up"
   end
 
   test do
