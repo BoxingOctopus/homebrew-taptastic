@@ -1,4 +1,4 @@
-class Virtualgo < Formula
+class HashiUp < Formula
   desc "Bootstrap HashiCorp Consul, Nomad, or Vault over SSH < 1 minute"
   homepage "https://github.com/jsiebens/hashi-up"
   url "https://github.com/jsiebens/hashi-up/releases/download/v0.16.0/hashi-up-arm64"
