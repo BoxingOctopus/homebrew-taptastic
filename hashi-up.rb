@@ -5,7 +5,7 @@ class HashiUp < Formula
       tag:      "v0.16.0",
       revision: "b062f5d9d4040b591f733a9e58e8977faad1ae88"
   license "MIT"
-  head "https://github.com/abiosoft/colima.git", branch: "main"
+  head "https://github.com/jsiebens/hashi-up.git", branch: "main"
 
   livecheck do
     url :stable
