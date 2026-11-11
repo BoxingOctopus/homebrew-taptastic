@@ -3,28 +3,28 @@
 class Brewdust < Formula
   desc "Find Homebrew packages gathering dust and clean them up"
   homepage "https://github.com/BoxingOctopusCreative/brewdust"
-  version "0.4.0"
+  version "0.5.0"
   license "MPL-2.0"
 
   on_macos do
     on_arm do
-      url "https://github.com/BoxingOctopusCreative/brewdust/releases/download/v0.4.0/brewdust_0.4.0_darwin_arm64.tar.gz"
-      sha256 "c478224cbe1379602c947693f8e40dfc42a232a761dda9abbda388fa4be8a2a8"
+      url "https://github.com/BoxingOctopusCreative/brewdust/releases/download/v0.5.0/brewdust_0.5.0_darwin_arm64.tar.gz"
+      sha256 "967753accda4f132e0008d8f3ce90164d24b2ed1e289e6089b881d673ed2b7ab"
     end
     on_intel do
-      url "https://github.com/BoxingOctopusCreative/brewdust/releases/download/v0.4.0/brewdust_0.4.0_darwin_amd64.tar.gz"
-      sha256 "fd6d122dd0882eb7c14036ad3845cadd8d2454e118594c98acf6006a62e88202"
+      url "https://github.com/BoxingOctopusCreative/brewdust/releases/download/v0.5.0/brewdust_0.5.0_darwin_amd64.tar.gz"
+      sha256 "753e3eb025d53032d09b42139ca281e1648ecf5cc55d97c62f3a3738a7e28580"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/BoxingOctopusCreative/brewdust/releases/download/v0.4.0/brewdust_0.4.0_linux_arm64.tar.gz"
-      sha256 "30f25276dc2e2b66e6ee452304354be6e56066ec9c743838838f3df46c50a372"
+      url "https://github.com/BoxingOctopusCreative/brewdust/releases/download/v0.5.0/brewdust_0.5.0_linux_arm64.tar.gz"
+      sha256 "6c2f80f0850173ea8fcde74d9038ab6fd7498e12a3d326b4ded41b310f878006"
     end
     on_intel do
-      url "https://github.com/BoxingOctopusCreative/brewdust/releases/download/v0.4.0/brewdust_0.4.0_linux_amd64.tar.gz"
-      sha256 "8e473de1ee95bae72b2c810eb599c8b9e307929ff34d34be82a1a2c546ca870b"
+      url "https://github.com/BoxingOctopusCreative/brewdust/releases/download/v0.5.0/brewdust_0.5.0_linux_amd64.tar.gz"
+      sha256 "06a97ab352d9ed35df5cf824978b11747ad76fc615bb4a0f542e11642e4128a7"
     end
   end
 
